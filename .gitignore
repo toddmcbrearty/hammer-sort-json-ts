@@ -1,0 +1,18 @@
+# Project-specific
+.gradle/
+build/
+out/
+bin/
+.kotlin/
+.intellijPlatform/
+
+# IntelliJ IDEA / PhpStorm
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
